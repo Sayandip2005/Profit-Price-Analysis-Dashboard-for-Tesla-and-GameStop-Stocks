@@ -1,4 +1,4 @@
-ai# Profit-Price-Analysis-Dashboard-for-Tesla-and-GameStop-Stocks
+# Profit-Price-Analysis-Dashboard-for-Tesla-and-GameStop-Stocks
 
 
 ## Overview
