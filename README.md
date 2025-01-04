@@ -76,7 +76,7 @@ The x-axis represents the dates, and the y-axis represents the price (in USD) an
 ## Author
 
 Sayandip Sen
-Contact: sayandipsen03@gmail.com
+sayandipsen03@gmail.com
  
 
 ---
