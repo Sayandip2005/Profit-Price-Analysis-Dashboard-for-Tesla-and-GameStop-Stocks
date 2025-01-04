@@ -1,4 +1,4 @@
-# Profit-Price-Analysis-Dashboard-for-Tesla-and-GameStop-Stocks
+ai# Profit-Price-Analysis-Dashboard-for-Tesla-and-GameStop-Stocks
 
 
 ## Overview
@@ -76,7 +76,7 @@ The x-axis represents the dates, and the y-axis represents the price (in USD) an
 ## Author
 
 Sayandip Sen
-sayandipsen03@gmail.com
+Contact: sayandipsen03@gmail.com
  
 
 ---
